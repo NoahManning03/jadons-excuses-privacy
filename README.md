@@ -1,4 +1,3 @@
-
 <html>
 <head><title>Privacy Policy - Jadon's Excuses</title></head>
 <body>
