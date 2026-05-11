@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head><title>Privacy Policy - Jadon's Excuses</title></head>
 <body>
@@ -12,6 +12,6 @@
         <li>No analytics, telemetry, or identifiers are sent to any third party.</li>
     </ul>
     <h2>Contact</h2>
-    <p>For questions, contact: [YOUR EMAIL HERE]</p>
+    <p>For questions, contact: noahjasonmanning@gmail.com</p>
 </body>
 </html>
